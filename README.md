@@ -1,10 +1,6 @@
-
-
-
-
 ## UC Berkeley Master's in Public Policy, Data Analysis concentration
 
-#Oakland Leaf Foundation
+# Oakland Leaf Foundation
 Measured impact, designed and built a performance measurement system (R, Excel)
 
 #Oakland City Council
@@ -21,7 +17,7 @@ Evaluated strategic plan with benchmark analysis, ux research, and KPI analysis 
 
 
 
-## 2015 Code for America Fellowship
+### 2015 Code for America Fellowship
 
 Miami-Dade County Fellowship Report
 
